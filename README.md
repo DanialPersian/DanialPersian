@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: you can email 
 - ⚡ Fun fact: I love geography and learning about other countries , i have a passion for cars,computers and tehnology
 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
