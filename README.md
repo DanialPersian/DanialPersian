@@ -7,7 +7,7 @@ Student - studying Robotics and Artificial Intelligence
 Hi !
 
 *   🌍  I'm based in England
-*   ✉️  You can contact me at [danialcodes@gmail.com](mailto:danialcodes@gmail.com)
+*   ✉️  You can contact me at [danialcoding9@gmail.com](mailto:danialcoding9@gmail.com)
 *   🧠  I'm learning TensorFlow
 *   🤝  I'm open to collaborating on anything !
 *   ⚡  my discord is<a href="https://www.github.com/DanialPersian" target="_blank" rel="noreferrer"><img
